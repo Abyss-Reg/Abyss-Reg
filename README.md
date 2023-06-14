@@ -3,7 +3,7 @@
 ## About me
 - Hi, there! This is <b>_LittleJiu_</b>, you can also call me "<b>_狐小九_</b>".
 - I'm a college students, learning software engineering, hobby is programming and gaming
-- I'm a fun of furry, my github's username is my oc's name, I love use that name on some social platforms, hope I can find other furry funs there uwu.
+- I'm a fun of furry, my github's username is my oc's name, I love use that name on some social platforms, hope I can find other furry funs there _uwu_.
 
 ## Contact information
 There is some contact infomation for me, you can touch me by under ways
