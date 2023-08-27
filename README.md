@@ -1,4 +1,4 @@
-[![Abyss-Reg](https://github-readme-stats.vercel.app/api?username=abyss-reg)](https://github.com/anuraghazra/github-readme-stats)
+[![Abyss-Reg](https://github-readme-stats.vercel.app/api?username=LittleJiu-furry)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 - Hi, there! This is <b>_LittleJiu_</b>, you can also call me "<b>_狐小九_</b>".
